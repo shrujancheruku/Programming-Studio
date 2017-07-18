@@ -1,0 +1,157 @@
+{% extends "base.html" %}
+{% block content %}
+    <ol class="breadcrumb">
+        <li><a href="{{ url_for('home') }}">Home</a></li>
+        <li><a href="{{ url_for('class_page', class_id=class_id) }}">{{ class_id }}</a></li>
+        <li class="active">Administration</li>
+    </ol>
+    <div class="container">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="well">
+                    <h2>{{ class_id }} Portal</h2>
+                    <h3>Welcome {{ professor }}</h3>
+                </div>
+            </div>
+        </div>
+        {% if list is none %}
+            <div class="col-md-8 well" style="padding-top: 0">
+            <div class="row">
+                <br>
+            </div>
+            <div class="row">
+                <br>
+            </div>
+            <div class="row">
+                <br>
+            </div>
+                <a class="btn btn-default" href="{{ url_for('syllabus_page', class_id=class_id) }}">Create Syllabus</a>
+        {% endif %}
+        {% if list is not none %}
+        <div class="col-md-12">
+        <div class="col-md-12 well">
+            <form action="" method="POST" name="assignment_form">
+                <div>
+                    {{ assignment_form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <h2>Create Assignment</h2>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            Assignment Name: {{ assignment_form.name }}
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <div class="span-12">
+                                Assignment Information (optional): {{ assignment_form.info(cols='150', rows ='15') }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ assignment_form.submit1(class="btn btn-default") }}
+                </div>
+                </form>
+            </div>
+            <div class="col-md-12 well">
+                <div class="row">
+                    <br>
+                </div>
+                <form action="" method="POST" name="ta_form">
+                <div class="col-md-8 col-offset-2">
+                    {{ ta_form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <h2>Add a TA</h2>
+                        </div>
+                        <div class="row">
+                            Username: {{ ta_form.username }}
+                        </div>
+                    </div>
+                    {{ ta_form.submit2(class="btn btn-default") }}
+                </div>
+            </form>
+            </div>
+            <div class="col-md-12 well">
+            <form action="" method="POST" name="json_form" enctype="multipart/form-data">
+                <div>
+                    {{ json_form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <h2>Add Roster</h2>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            {{ json_form.file }}
+                        </div>
+                    </div>
+                    {{ json_form.submit3(class="btn btn-default") }}
+                </div>
+                </form>
+                </div>
+            <div class="col-md-12 well">
+            <form action="" method="POST" name="syllabus_form" enctype="multipart/form-data">
+                <div>
+                    {{ syllabus_form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <h2>Add Syllabus</h2>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            {{ syllabus_form.file }}
+                        </div>
+                    </div>
+                    {{ syllabus_form.submit4(class="btn btn-default") }}
+                </div>
+                </form>
+                </div>
+        <div class="col-md-12 well">
+            <form action="" method="POST" name="announcement_form">
+                <div>
+                    {{ announcement_form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <h2>Add Announcement</h2>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            {{ announcement_form.text }}
+                        </div>
+                    </div>
+                    {{ announcement_form.submit5(class="btn btn-default") }}
+                </div>
+                </form>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    <ol class="breadcrumb">
+        <li><a href="{{ url_for('home') }}">Home</a></li>
+        <li><a href="{{ url_for('class_page', class_id=class_id) }}">{{ class_id }}</a></li>
+        <li class="active">Administration</li>
+    </ol>
+    </div>
+
+{% endblock %}

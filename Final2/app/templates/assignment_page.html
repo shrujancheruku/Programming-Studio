@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="container">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="well"><h2>Assignment: {{ assignment_name }}</h2></div>
+            </div>
+        </div>
+        <div class="col-md-12 well">
+            {% if grade is not none %}
+                <div class="progress">
+                  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{ grade }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ grade }}%;">
+                      <b style="color: black">Current Grade: {{ grade }}</b>
+                  </div>
+                </div>
+            {% endif %}
+            <form action="" method="POST" name="form" enctype="multipart/form-data">
+                <div class="col-md-8 col-offset-2">
+                    {{ form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <h3>New Submission</h3>
+                        </div>
+                        <div class="row">
+                            <div class="span-12" style="text-align: center">
+                                {{ form.submission(cols='150', rows ='15') }}
+                            </div>
+                        </div>
+                        <div class="row">
+                            {{ form.file }}
+                        </div>
+                    </div>
+                    <button class="btn btn-default" type="submit">Submit</button>
+                </div>
+            </form>
+        </div>
+        {% if submission is not none %}
+            <div class="col-md-12 well">
+                <div class="row">
+                    <h2>Previous Submission</h2>
+                </div>
+                <div class="row">
+                    <p>
+                        {{ submission }}
+                    </p>
+                    {% if file is not none %}
+                    <p>
+                        <a href="/showFile/{{ file }}">Download Previous File Submission</a>
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+        {% endif %}
+    </div>
+{% endblock %}

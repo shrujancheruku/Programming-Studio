@@ -1,0 +1,31 @@
+import logging
+# logging.basicConfig(level=logging.INFO)
+from Graph import Graph
+from Scraper import Scrape
+
+"""
+Main method to run the assignment
+"""
+
+url = "https://en.wikipedia.org/wiki/Morgan_Freeman"
+g = Graph.Graph()
+actor_count = 0
+movie_count = 0
+while actor_count < 200 and movie_count < 200:
+    actor_data_set = Scrape.scrape_actor(url)
+    if actor_data_set is not 0:
+        actor_count += 1
+        url = actor_data_set[2]
+
+    movie_data_set = Scrape.scrape_movie(url)
+    if movie_data_set is not 0:
+        movie_count += 1
+        url = movie_data_set[2]
+
+    if not movie_data_set == 0:
+        g.create_edge(g.create_node(actor_data_set[2], actor_data_set[0], 'actor', actor_data_set[1]),
+                     g.create_node(movie_data_set[2], movie_data_set[0], 'movie', movie_data_set[1]))
+    else:
+        break;
+
+g.store_json()

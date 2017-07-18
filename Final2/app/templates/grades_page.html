@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="container">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading"><h3>{{ class_name }} Grades</h3></div>
+                <table class="table">
+                    <tr>
+                        <th>Assignment</th>
+                        <th>Grade</th>
+                    </tr>
+                    {% for assignment_grade in assignment_grades %}
+                    <tr>
+                        <td>{{ assignment_grade[0] }}</td>
+                        <td>{{ assignment_grade[1] }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}

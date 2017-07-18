@@ -1,0 +1,156 @@
+{# Bootstrap base template code which is modified a lot is from
+https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/#}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ file_name }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-theme.min.css') }}">
+    <link href="{{ url_for('static', filename='css/custom.css') }}" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Shrujan's SVN Portfolio</a>
+                </div>
+            </div>
+        </nav>
+
+    <div class="jumbotron" >
+	    <div class="container">
+		    <h1>{{ file_name }}</h1>
+		    <p>File Size: {{ file_data['size'] }} kb</p>
+            <p>Type: {{ file_data['type'] }} </p>
+            <p>Path: {{ file_data['path'] }}</p>
+            <p>Version: {{ file_data['version'] }} </p>
+            <p>Author: {{ file_data['author'] }} </p>
+            <p>Message: {{ file_data['summary'] }} </p>
+            <p>Date: {{ file_data['date'] }} </p>
+		    <br>
+            {% if file_data['revisions']|length > 0 %}
+		    <p><a class="btn btn-primary btn-lg" href="{{ url_for('access_revisions', project=project_name, file_name=file_name) }}" role="button">Revisions »</a> </p>
+            {% endif %}
+	    </div>
+    </div>
+    <hr>
+    <iframe src="{{ file_data['url'] }}" width=100% height="300" allowTransparency="true"
+            style="background-color: #239057; " frameborder="0" marginheight="0" marginwidth="0">File
+    </iframe>
+
+    <div>
+        <h1>&nbsp &nbsp Comments</h1>
+        <div>
+            <ul>
+            {% if comments is not none %}
+                {% for comment in comments %}
+                <div class="row"><br></div>
+                <div class="row"> <hr></div>
+                <li>
+                    <div>
+                        <header> <h2>{{ comment.username }}</h2>
+                            <span><b>Posted: {{ comment.timestamp }}</b></span>
+                            <p> {{ comment.comment_text }} </p>
+                        </header>
+                        <ul>
+                        {% if comments.replies is not none %}
+                            {% for reply in comment.replies %}
+                            <li>
+                                <div>
+                                    <header> <h2>{{ reply.username }}</h2>
+                                        <span><b>Posted: {{ reply.timestamp }}</b></span>
+                                    </header>
+                                    <p> {{ reply.comment_text }} </p>
+                                </div>
+                            </li>
+                            {% endfor %}
+                        {% endif %}
+                        </ul>
+                        <div class="row">
+                            <div class="toggle-class"><input class="btn btn-primary" value="New Reply"></div>
+                        <div class="form-group" hidden>
+                        <form action="" method="POST">
+                            <h3>Add new reply:</h3>
+                                    <div class="col-xs-1">
+                                    <label>Username:</label>
+                                    </div>
+                                     <div class="col-xs-2">
+                                    <input type="text" class="form-control" name="username">
+                                    </div>
+                                    <div class="col-xs-1">
+                                    <label>Reply:</label>
+                                    </div>
+                                    <div class="col-xs-4">
+                                    <input type="text" class="form-control" name="comment_text">
+                                    </div>
+                                    <input type="hidden" name="is_reply" readonly value={{"True"}}>
+                                    <input type="hidden" name="file_path" readonly value={{file_data['path']}}>
+                                    <input type="hidden" name="parent" readonly value={{loop.index0}}>
+                                    <div class="col-xs-4">
+                                    <input class="btn btn-primary" type="submit" value="reply" align="bottom">
+                                    </div>
+                                </form>
+                        </div>
+                        </div>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <div class="row"><br></div>
+        <hr>
+        <div class="row"><br></div>
+        &nbsp &nbsp <div class="toggle-class"><input class="btn btn-primary" value="New Comment"></div>
+        <div class="form-group" hidden>
+        <form action="" method="POST">
+            <h2>Add new comment:</h2>
+            <div class="col-xs-1">
+            <label>Username:</label>
+            </div>
+            <div class="col-xs-2">
+            <input type="text" class="form-control" name="username">
+            </div>
+            <div class="col-xs-1">
+            <label>Comment:</label>
+            </div>
+            <div class="col-xs-4">
+            <input type="text" class="form-control" name="comment_text">
+            </div>
+            <input type="hidden" name="is_reply" readonly value={{"False"}}>
+            <input type="hidden" name="file_path" readonly value={{file_data['path']}}>
+            <div class="col-xs-4">
+            <input class="btn btn-primary" type="submit" value="comment">
+            </div>
+        </form>
+        </div>
+        </div>
+    </div>
+    <div class="row"><br></div>
+<div class="row"><br></div>
+
+    <script>
+          $(document).ready(function(){
+
+          $(".toggle-class").click(function(){
+            $(this).next(".form-group").show();
+            $(this).hide();
+          });
+
+         });
+     </script>
+
+</body>
+</html>

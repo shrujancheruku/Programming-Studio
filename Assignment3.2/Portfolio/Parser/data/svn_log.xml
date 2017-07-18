@@ -1,0 +1,3221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Portfolio.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/templates/file_page.html</path>
+</paths>
+<msg>added posting from sorted comments</msg>
+</logentry>
+<logentry
+   revision="8590">
+<author>scheruk2</author>
+<date>2017-04-03T06:07:10.768775Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.2/Portfolio/Portfolio.py</path>
+</paths>
+<msg>added posting from sorted comments</msg>
+</logentry>
+<logentry
+   revision="8589">
+<author>scheruk2</author>
+<date>2017-04-03T06:00:22.791891Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/.idea/Portfolio.iml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.2/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.2/Portfolio/Portfolio.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.2/Portfolio/schemas.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.2/Portfolio/static/css/custom.css</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.2/Portfolio/templates/file_page.html</path>
+</paths>
+<msg>Working bruh</msg>
+</logentry>
+<logentry
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.2</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.2/Portfolio</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.2/Portfolio/.idea</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/.idea/Portfolio.iml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.2/Portfolio/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/data</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/coverage_html.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/index.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/jquery.hotkeys.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/jquery.isonscreen.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/jquery.min.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/keybd_closed.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/keybd_open.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/parser_py.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/status.json</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/style.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/htmlcov/testParser_py.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/Parser/parser.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Parser/testParser.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/Portfolio.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/addFruityWord.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/filterTest.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/run.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/schemas.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/schemasTest.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static/css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static/css/bootstrap-theme.min.css</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/static/css/bootstrap-theme.min.css.map</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/static/css/bootstrap.min.css</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/static/css/bootstrap.min.css.map</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static/css/custom.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static/favicon.ico</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static/js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.2/Portfolio/static/js/bootstrap.min.js</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.2/Portfolio/templates</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/templates/file_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/templates/index.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/templates/project_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/templates/revisions_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.2/Portfolio/updateSVN.py</path>
+</paths>
+<msg>Init</msg>
+</logentry>
+<logentry
+   revision="8054">
+<author>scheruk2</author>
+<date>2017-03-27T18:27:17.338151Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/filterTest.py</path>
+</paths>
+<msg>Adding cleaning mouth with soap and comments</msg>
+</logentry>
+<logentry
+   revision="8053">
+<author>scheruk2</author>
+<date>2017-03-27T18:17:51.734503Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+</paths>
+<msg>Adding cleaning mouth with soap and comments</msg>
+</logentry>
+<logentry
+   revision="8046">
+<author>scheruk2</author>
+<date>2017-03-27T17:38:53.172440Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/addFruityWord.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/schemas.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/schemasTest.py</path>
+</paths>
+<msg>Adding cleaning mouth with soap and comments</msg>
+</logentry>
+<logentry
+   revision="8000">
+<author>scheruk2</author>
+<date>2017-03-27T08:23:05.104440Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/addFruityWord.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/schemas.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/static/css/custom.css</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/templates/file_page.html</path>
+</paths>
+<msg>Adding cleaning mouth with soap</msg>
+</logentry>
+<logentry
+   revision="7970">
+<author>scheruk2</author>
+<date>2017-03-27T03:29:57.225397Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/static/css/custom.css</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/templates/file_page.html</path>
+</paths>
+<msg>Commenting styling complete</msg>
+</logentry>
+<logentry
+   revision="7960">
+<author>scheruk2</author>
+<date>2017-03-27T00:52:34.028028Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/templates/file_page.html</path>
+</paths>
+<msg>File comments and replies working</msg>
+</logentry>
+<logentry
+   revision="7952">
+<author>scheruk2</author>
+<date>2017-03-26T21:59:01.729823Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/schemas.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/schemasTest.py</path>
+</paths>
+<msg>adding schemas and updating Flask app</msg>
+</logentry>
+<logentry
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/.coverage</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/Parser/data</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/coverage_html.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/index.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.hotkeys.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.isonscreen.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/keybd_closed.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/keybd_open.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/parser_py.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/status.json</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/style.css</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/testParser_py.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/parser.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/testParser.py</path>
+</paths>
+<msg>init</msg>
+</logentry>
+<logentry
+   revision="7892">
+<author>scheruk2</author>
+<date>2017-03-25T17:14:20.096849Z</date>
+<paths>
+<path
+   kind="dir"
+   action="R">/scheruk2/Assignment3.1/Portfolio/Parser</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/__init__.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.1</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.1/.idea</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/.idea/Assignment3.1.iml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.1/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/Parser</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/.coverage</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/Parser/data</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/coverage_html.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/index.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.hotkeys.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.isonscreen.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/keybd_closed.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/keybd_open.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/parser_py.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/status.json</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/style.css</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/htmlcov/testParser_py.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/parser.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Parser/testParser.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/Portfolio.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/run.py</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/static</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/static/css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/css/bootstrap-theme.min.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/css/bootstrap-theme.min.css.map</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/css/bootstrap.min.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/css/bootstrap.min.css.map</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/css/custom.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/favicon.ico</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.1/Portfolio/static/js/bootstrap.min.js</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.1/Portfolio/templates</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/templates/file_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/templates/index.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/templates/project_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/templates/revisions_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.1/Portfolio/updateSVN.py</path>
+</paths>
+<msg>Init</msg>
+</logentry>
+<logentry
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+</paths>
+<msg>Testing coverage</msg>
+</logentry>
+<logentry
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/.coverage</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/coverage_html.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/index.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/jquery.hotkeys.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/jquery.isonscreen.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/jquery.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/keybd_closed.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/keybd_open.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/parser_py.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/status.json</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/style.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/htmlcov/testParser_py.html</path>
+</paths>
+<msg>Testing coverage</msg>
+</logentry>
+<logentry
+   revision="7189">
+<author>scheruk2</author>
+<date>2017-03-13T17:22:28.776961Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/testParser.py</path>
+</paths>
+<msg>Testing coverage</msg>
+</logentry>
+<logentry
+   revision="7182">
+<author>scheruk2</author>
+<date>2017-03-13T17:06:30.540151Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/testParser.py</path>
+</paths>
+<msg>Testing done</msg>
+</logentry>
+<logentry
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Portfolio.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/run.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/static/css/custom.css</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/updateSVN.py</path>
+</paths>
+<msg>Commenting</msg>
+</logentry>
+<logentry
+   revision="7169">
+<author>scheruk2</author>
+<date>2017-03-13T16:30:56.955035Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Commenting</msg>
+</logentry>
+<logentry
+   revision="7167">
+<author>scheruk2</author>
+<date>2017-03-13T16:28:49.205002Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+</paths>
+<msg>Commenting</msg>
+</logentry>
+<logentry
+   revision="7166">
+<author>scheruk2</author>
+<date>2017-03-13T16:28:27.446883Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+</paths>
+<msg>Commenting</msg>
+</logentry>
+<logentry
+   revision="7075">
+<author>scheruk2</author>
+<date>2017-03-13T02:35:01.837050Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Custom CSS</msg>
+</logentry>
+<logentry
+   revision="7055">
+<author>scheruk2</author>
+<date>2017-03-13T00:47:48.969460Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/static/css/custom.css</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/project_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Custom CSS</msg>
+</logentry>
+<logentry
+   revision="7036">
+<author>scheruk2</author>
+<date>2017-03-12T22:30:29.695374Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/project_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Bootstrapped</msg>
+</logentry>
+<logentry
+   revision="7035">
+<author>scheruk2</author>
+<date>2017-03-12T22:29:13.486589Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/project_page.html</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Bootstrapped</msg>
+</logentry>
+<logentry
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/css/bootstrap-theme.min.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/css/bootstrap-theme.min.css.map</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/css/bootstrap.min.css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/css/bootstrap.min.css.map</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/favicon.ico</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/js</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/js/bootstrap.min.js</path>
+</paths>
+<msg>Bootstrapping</msg>
+</logentry>
+<logentry
+   revision="7009">
+<author>scheruk2</author>
+<date>2017-03-12T21:35:10.947985Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="D">/scheruk2/Assignment3.0/Portfolio/static/css/style.css</path>
+</paths>
+<msg>Bootstrapping</msg>
+</logentry>
+<logentry
+   revision="7008">
+<author>scheruk2</author>
+<date>2017-03-12T21:34:54.987000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/project_page.html</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Bootstrapping</msg>
+</logentry>
+<logentry
+   revision="7006">
+<author>scheruk2</author>
+<date>2017-03-12T21:24:37.448755Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/project_page.html</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+</paths>
+<msg>Working!</msg>
+</logentry>
+<logentry
+   revision="6994">
+<author>scheruk2</author>
+<date>2017-03-12T20:37:01.436640Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   action="D"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/static/data</path>
+</paths>
+<msg>Working!</msg>
+</logentry>
+<logentry
+   revision="6926">
+<author>scheruk2</author>
+<date>2017-03-11T22:54:46.208977Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Portfolio.py</path>
+</paths>
+<msg>Working!</msg>
+</logentry>
+<logentry
+   revision="6925">
+<author>scheruk2</author>
+<date>2017-03-11T22:52:14.766992Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment3.0/Portfolio/Portfolio.py</path>
+<path
+   kind="dir"
+   action="D">/scheruk2/Assignment3.0/Portfolio/css</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/run.py</path>
+<path
+   kind="dir"
+   copyfrom-path="/scheruk2/Assignment3.0/Portfolio/css"
+   copyfrom-rev="6924"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/css</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/data</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/static/data/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/static/data/svn_log.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/updateSVN.py</path>
+</paths>
+<msg>Working!</msg>
+</logentry>
+<logentry
+   revision="6924">
+<author>scheruk2</author>
+<date>2017-03-11T22:26:28.361313Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/scheruk2/Assignment3.0/Portfolio/data</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/.idea</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/Portfolio.iml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/.idea/inspectionProfiles</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/data</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Portfolio.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio/css</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/css/style.css</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/data</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/data/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/data/svn_log.xml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/static</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/templates</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/file_page.html</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/templates/index.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/templates/project_page.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/templates/revisions_page.html</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/updateSVN.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6898">
+<author>scheruk2</author>
+<date>2017-03-11T06:26:38.493957Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/scheruk2/Assignment2.1/API</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6897">
+<author>scheruk2</author>
+<date>2017-03-11T06:26:19.807268Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.1/API</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/API/__init__.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/API.py</path>
+<path
+   kind="dir"
+   action="D">/scheruk2/Assignment3.0</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6895">
+<author>scheruk2</author>
+<date>2017-03-11T06:18:40.565320Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/.idea</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/.idea/inspectionProfiles</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Assignment3.0.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment3.0/Portfolio/Parser/__init__.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/Parser/parser.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/Portfolio/data</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/data/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/data/svn_log.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment3.0/Portfolio/updateSVN.py</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/static</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment3.0/templates</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6453">
+<author>scheruk2</author>
+<date>2017-03-06T19:58:09.408409Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/BestFriends.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/DrawGraph.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6444">
+<author>scheruk2</author>
+<date>2017-03-06T19:28:13.504199Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/Manual Test Plan.pdf</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6443">
+<author>scheruk2</author>
+<date>2017-03-06T19:27:09.577627Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/BestFriends.py</path>
+<path
+   action="D"
+   kind="file">/scheruk2/Assignment2.1/HubActors.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/Hubs.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6432">
+<author>scheruk2</author>
+<date>2017-03-06T18:48:50.218109Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6428">
+<author>scheruk2</author>
+<date>2017-03-06T18:41:48.577041Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/Manual Test Plan.pdf</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6426">
+<author>scheruk2</author>
+<date>2017-03-06T18:32:14.027626Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/ShowAll.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6425">
+<author>scheruk2</author>
+<date>2017-03-06T18:29:38.301246Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/AgeSalary.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6424">
+<author>scheruk2</author>
+<date>2017-03-06T18:27:46.933942Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/dictionaries/Shrujan.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/AgeSalary.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/DrawGraph.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6419">
+<author>scheruk2</author>
+<date>2017-03-06T18:07:35.554726Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/AgeSalary.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6417">
+<author>scheruk2</author>
+<date>2017-03-06T17:44:00.666388Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/API_Tests.postman_collection.json</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6414">
+<author>scheruk2</author>
+<date>2017-03-06T17:36:33.259223Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment2.1/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/.idea/dictionaries/Shrujan.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/API.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/GetActor.py</path>
+<path
+   kind="file"
+   action="D">/scheruk2/Assignment2.1/Graph.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/GraphCreator.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/HubActors.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/KevinBacon.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6384">
+<author>scheruk2</author>
+<date>2017-03-06T09:16:42.957969Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/API.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6383">
+<author>scheruk2</author>
+<date>2017-03-06T09:14:33.456191Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/API Tests.postman_collection.json</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/API.py</path>
+<path
+   kind="file"
+   action="D">/scheruk2/Assignment2.1/AssignmentAPI.py</path>
+<path
+   kind="dir"
+   action="D">/scheruk2/Assignment2.1/static</path>
+<path
+   kind="dir"
+   action="D">/scheruk2/Assignment2.1/templates</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6382">
+<author>scheruk2</author>
+<date>2017-03-06T09:08:50.810188Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="D"
+   kind="file">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/AssignmentAPI.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/GetActor.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6353">
+<author>scheruk2</author>
+<date>2017-03-06T02:50:55.463237Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+</paths>
+<msg>Small Changes</msg>
+</logentry>
+<logentry
+   revision="6352">
+<author>scheruk2</author>
+<date>2017-03-06T02:50:15.060315Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6346">
+<author>scheruk2</author>
+<date>2017-03-06T02:19:20.532336Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+</paths>
+<msg>Get all working</msg>
+</logentry>
+<logentry
+   revision="6345">
+<author>scheruk2</author>
+<date>2017-03-06T02:06:54.621842Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+<path
+   kind="file"
+   action="D">/scheruk2/Assignment2.1/Test.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6307">
+<author>scheruk2</author>
+<date>2017-03-05T21:23:31.033780Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/working_data.json</path>
+</paths>
+<msg>Flasking</msg>
+</logentry>
+<logentry
+   revision="6306">
+<author>scheruk2</author>
+<date>2017-03-05T21:23:10.613332Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/Test.py</path>
+</paths>
+<msg>Flasking</msg>
+</logentry>
+<logentry
+   revision="6303">
+<author>scheruk2</author>
+<date>2017-03-05T20:55:28.877963Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/GetActor.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/KevinBacon.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/data.json</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6299">
+<author>scheruk2</author>
+<date>2017-03-05T20:27:15.765533Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/GetActor.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/KevinBacon.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6184">
+<author>scheruk2</author>
+<date>2017-03-02T23:08:42.437459Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/GraphCreator.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/HubActors.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/JSONHandler.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.1/data.json</path>
+</paths>
+<msg>Oh yeah</msg>
+</logentry>
+<logentry
+   revision="6183">
+<author>scheruk2</author>
+<date>2017-03-02T21:38:09.573993Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/GraphCreator.py</path>
+</paths>
+<msg>Weight works</msg>
+</logentry>
+<logentry
+   revision="6167">
+<author>scheruk2</author>
+<date>2017-03-02T00:51:24.368937Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.1/DrawGraph.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/.idea/Assignment2.1.iml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.1/Assignment2.1.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/DrawGraph.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/Graph.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/GraphCreator.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/JSONHandler.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.1/data.json</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment2.1/static</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment2.1/templates</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="5850">
+<author>scheruk2</author>
+<date>2017-02-27T20:18:02.080065Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Main</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Scraper/Extract.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="5841">
+<author>scheruk2</author>
+<date>2017-02-27T19:18:52.570557Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Edge.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Node.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Main</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="5835">
+<author>scheruk2</author>
+<date>2017-02-27T18:34:59.564569Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Edge.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Node.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Main</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Extract.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="5821">
+<author>scheruk2</author>
+<date>2017-02-27T17:09:12.706360Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Extract.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="5778">
+<author>scheruk2</author>
+<date>2017-02-27T05:30:39.310842Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.0/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.0/.idea/dictionaries/Shrujan.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Graph/Edge.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Graph/Node.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/Main</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Extract.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="5737">
+<author>scheruk2</author>
+<date>2017-02-26T23:58:20.706909Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Edge.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Node.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Semblance of Scraping</msg>
+</logentry>
+<logentry
+   revision="5733">
+<author>scheruk2</author>
+<date>2017-02-26T22:46:27.421093Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="5732">
+<author>scheruk2</author>
+<date>2017-02-26T22:46:14.000068Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Edge.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Graph/Node.py</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Much work</msg>
+</logentry>
+<logentry
+   revision="5702">
+<author>scheruk2</author>
+<date>2017-02-26T06:52:45.365269Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg>Pls
+</msg>
+</logentry>
+<logentry
+   revision="5701">
+<author>scheruk2</author>
+<date>2017-02-26T06:52:30.536881Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.0/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment2.0/Graph</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/Graph/Edge.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/Graph/Graph.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/Graph/Node.py</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment2.0/Graph/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment2.0/Scraper</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.0/Scraper/Scrape.py</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment2.0/Scraper/__init__.py</path>
+</paths>
+<msg>Parsing works</msg>
+</logentry>
+<logentry
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/Doxyfile</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI/ChessBoardDisplay.class</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI/GUI.class</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI/Tile.class</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="4374">
+<author>scheruk2</author>
+<date>2017-02-13T19:40:19.778056Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/ChessBoardDisplay.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/BishopTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/EmpressTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Tests/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Tests/PrincessTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Tests/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Tests/RookTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/GUI/ChessBoardDisplay.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Logic/Board.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Princess.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/BishopTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/EmpressTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/PawnTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/PrincessTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Tests/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Tests/RookTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/ChessBoardDisplay.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/GUI.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/Tile.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Logic/Board.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Logic/Game.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Blank.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Pieces/Princess.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/EmpressTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/PrincessTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/QueenTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/RookTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4334">
+<author>scheruk2</author>
+<date>2017-02-13T18:01:24.388753Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/ChessBoardDisplay.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/GUI.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/Tile.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/.idea</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/.idea/dictionaries</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/.idea/dictionaries/Shrujan.xml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/Assignment1.1.iml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/out</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/out/production</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Blank.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Board.class</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI/ChessBoardDisplay.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI/GUI.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/GUI/Tile.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Game.class</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/blackBishop.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/blackKing.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/blackKnight.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/blackPawn.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/blackQueen.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/blackRook.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/whiteKing.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/whitePawn.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/whiteQueen.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Images/whiteRook.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/King.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Knight.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/PawnTest.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Piece.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Queen.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/QueenTest.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Rook.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/RookTest.class</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/src/GUI</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/GUI/ChessBoardDisplay.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/GUI/GUI.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/GUI/Tile.java</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/src/Images</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Images/blackBishop.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Images/blackKing.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Images/blackKnight.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Images/blackPawn.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Images/blackQueen.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Images/blackRook.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Images/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Images/whiteKing.png</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Images/whiteKnight.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Images/whitePawn.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Images/whiteQueen.png</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Images/whiteRook.png</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/src/Logic</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Logic/Board.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Logic/Game.java</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/src/Pieces</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Pieces/Blank.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Pieces/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/src/Tests</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Tests/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Tests/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Tests/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Tests/RookTest.java</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="4320">
+<author>scheruk2</author>
+<date>2017-02-13T17:25:47.993170Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/scheruk2/Assignment1.1</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="4317">
+<author>scheruk2</author>
+<date>2017-02-13T17:09:39.894879Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/.idea/dictionaries/Shrujan.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3991">
+<author>scheruk2</author>
+<date>2017-02-10T00:08:02.772724Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/Assignment1.1.iml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/Doxyfile</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.1/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Blank.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/King.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.1/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/RookTest.java</path>
+</paths>
+<msg>Dox</msg>
+</logentry>
+<logentry
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/out/production/Assignment1.0/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/.idea</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/Assignment1.1.iml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/out</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/out/production</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Blank.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Board.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Game.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/King.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Knight.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Piece.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/out/production/Assignment1.1/Queen.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/out/production/Assignment1.1/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Blank.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Board.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Game.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/King.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.1/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.1/src/Rook.java</path>
+</paths>
+<msg>Pls</msg>
+</logentry>
+<logentry
+   revision="3437">
+<author>scheruk2</author>
+<date>2017-02-06T19:46:53.994173Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Board.java</path>
+</paths>
+<msg>changed some basic logic</msg>
+</logentry>
+<logentry
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/King.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/RookTest.java</path>
+</paths>
+<msg>changed some comments</msg>
+</logentry>
+<logentry
+   revision="3424">
+<author>scheruk2</author>
+<date>2017-02-06T18:59:08.710851Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Game.java</path>
+</paths>
+<msg>changed some comments</msg>
+</logentry>
+<logentry
+   revision="3420">
+<author>scheruk2</author>
+<date>2017-02-06T18:39:13.805847Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/QueenTest.java</path>
+</paths>
+<msg>changed some comments</msg>
+</logentry>
+<logentry
+   revision="3419">
+<author>scheruk2</author>
+<date>2017-02-06T18:38:22.747095Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/out/production/Assignment1.0/Piece.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/QueenTest.java</path>
+</paths>
+<msg>Finished all the Piece testing</msg>
+</logentry>
+<logentry
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Blank.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Board.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/Game.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/King.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Queen.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Rook.java</path>
+</paths>
+<msg>Added the movePiece() function</msg>
+</logentry>
+<logentry
+   revision="3402">
+<author>scheruk2</author>
+<date>2017-02-06T17:49:54.815277Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/Blank.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Board.java</path>
+</paths>
+<msg>Added blank spaces object</msg>
+</logentry>
+<logentry
+   revision="3292">
+<author>scheruk2</author>
+<date>2017-02-05T21:58:25.889927Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/out/production/Assignment1.0/Piece.class</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Board.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/King.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/Knight.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Piece.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Queen.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Rook.java</path>
+</paths>
+<msg>Removed taken and added setupPieces()</msg>
+</logentry>
+<logentry
+   revision="3289">
+<author>scheruk2</author>
+<date>2017-02-05T21:33:28.297381Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/King.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/Queen.java</path>
+</paths>
+<msg>Made King and Queen</msg>
+</logentry>
+<logentry
+   revision="3241">
+<author>scheruk2</author>
+<date>2017-02-05T02:13:29.003901Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/BishopTest.java</path>
+</paths>
+<msg>Bishop Tested</msg>
+</logentry>
+<logentry
+   revision="3227">
+<author>scheruk2</author>
+<date>2017-02-04T23:51:16.233664Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/out/production/Assignment1.0/Piece.class</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Board.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Piece.java</path>
+<path
+   action="M"
+   kind="file">/scheruk2/Assignment1.0/src/Rook.java</path>
+</paths>
+<msg>Initial Bishop</msg>
+</logentry>
+<logentry
+   revision="3226">
+<author>scheruk2</author>
+<date>2017-02-04T22:45:36.124706Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/RookTest.java</path>
+</paths>
+<msg>Rook testing complete</msg>
+</logentry>
+<logentry
+   revision="3224">
+<author>scheruk2</author>
+<date>2017-02-04T22:24:33.801580Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/out/production/Assignment1.0/Piece.class</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/src/Rook.java</path>
+</paths>
+<msg>Initial Board and Rook. Needs testing.</msg>
+</logentry>
+<logentry
+   revision="3125">
+<author>scheruk2</author>
+<date>2017-02-02T01:56:11.116069Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/Pawn.java</path>
+</paths>
+<msg>Initial Pawn</msg>
+</logentry>
+<logentry
+   revision="3124">
+<author>scheruk2</author>
+<date>2017-02-02T01:54:18.596852Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/Assignment1.0/src/Piece.java</path>
+</paths>
+<msg>Initial Piece</msg>
+</logentry>
+<logentry
+   revision="3122">
+<author>scheruk2</author>
+<date>2017-02-02T00:32:14.861592Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/scheruk2/Assignment1.0/Assignment1.0.iml</path>
+<path
+   kind="dir"
+   action="A">/scheruk2/Assignment1.0/out</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.0/out/production</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.0/out/production/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/out/production/Assignment1.0/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/scheruk2/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="file">/scheruk2/Assignment1.0/src/Piece.java</path>
+</paths>
+<msg>Started</msg>
+</logentry>
+<logentry
+   revision="2401">
+<author>scheruk2</author>
+<date>2017-01-31T04:18:41.572487Z</date>
+<paths>
+<path
+   action="R"
+   kind="dir">/scheruk2/HW0</path>
+</paths>
+<msg>Done</msg>
+</logentry>
+<logentry
+   revision="2400">
+<author>scheruk2</author>
+<date>2017-01-31T04:17:01.599520Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/scheruk2/HW0</path>
+</paths>
+<msg>HW0 commit</msg>
+</logentry>
+<logentry
+   revision="376">
+<author>scheruk2</author>
+<date>2017-01-24T22:44:22.702786Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/scheruk2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="372">
+<author>scheruk2</author>
+<date>2017-01-24T22:38:44.796077Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/scheruk2/grocery</path>
+<path
+   action="A"
+   kind="file">/scheruk2/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/scheruk2/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="148">
+<author>root</author>
+<date>2017-01-24T19:28:05.586947Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/scheruk2</path>
+</paths>
+<msg>created directory scheruk2</msg>
+</logentry>
+</log>

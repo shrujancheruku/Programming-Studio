@@ -1,0 +1,3161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/scheruk2">
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>2630</size>
+<commit
+   revision="3227">
+<author>scheruk2</author>
+<date>2017-02-04T23:51:16.233664Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="3122">
+<author>scheruk2</author>
+<date>2017-02-02T00:32:14.861592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="3122">
+<author>scheruk2</author>
+<date>2017-02-02T00:32:14.861592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>74694</size>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0.iml</name>
+<size>1158</size>
+<commit
+   revision="3224">
+<author>scheruk2</author>
+<date>2017-02-04T22:24:33.801580Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out</name>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production</name>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0</name>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/Piece.class</name>
+<size>1450</size>
+<commit
+   revision="3990">
+<author>scheruk2</author>
+<date>2017-02-09T23:43:48.938749Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3437">
+<author>scheruk2</author>
+<date>2017-02-06T19:46:53.994173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Bishop.java</name>
+<size>1147</size>
+<commit
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/BishopTest.java</name>
+<size>2084</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Blank.java</name>
+<size>403</size>
+<commit
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Board.java</name>
+<size>4487</size>
+<commit
+   revision="3437">
+<author>scheruk2</author>
+<date>2017-02-06T19:46:53.994173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Game.java</name>
+<size>304</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/King.java</name>
+<size>846</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/KingTest.java</name>
+<size>1568</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Knight.java</name>
+<size>999</size>
+<commit
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/KnightTest.java</name>
+<size>1607</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pawn.java</name>
+<size>2200</size>
+<commit
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/PawnTest.java</name>
+<size>2389</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Piece.java</name>
+<size>2215</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Queen.java</name>
+<size>1310</size>
+<commit
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/QueenTest.java</name>
+<size>1588</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Rook.java</name>
+<size>835</size>
+<commit
+   revision="3412">
+<author>scheruk2</author>
+<date>2017-02-06T18:28:34.351119Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/RookTest.java</name>
+<size>2039</size>
+<commit
+   revision="3432">
+<author>scheruk2</author>
+<date>2017-02-06T19:34:50.511569Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/dictionaries</name>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/dictionaries/Shrujan.xml</name>
+<size>146</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/inspectionProfiles</name>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>399</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>50616</size>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.1.iml</name>
+<size>761</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>108505</size>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1</name>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Bishop.class</name>
+<size>713</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/BishopTest.class</name>
+<size>1998</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Blank.class</name>
+<size>310</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Board.class</name>
+<size>2238</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/GUI</name>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/GUI/ChessBoardDisplay.class</name>
+<size>2097</size>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/GUI/GUI.class</name>
+<size>656</size>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/GUI/Tile.class</name>
+<size>1162</size>
+<commit
+   revision="5699">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:30.756063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Game.class</name>
+<size>237</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.1/Images</name>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/blackBishop.png</name>
+<size>1500</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/blackKing.png</name>
+<size>2734</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/blackKnight.png</name>
+<size>2011</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/blackPawn.png</name>
+<size>876</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/blackQueen.png</name>
+<size>3018</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/blackRook.png</name>
+<size>867</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/whiteBishop.png</name>
+<size>2361</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/whiteKing.png</name>
+<size>2617</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/whiteKnight.png</name>
+<size>2363</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/whitePawn.png</name>
+<size>1510</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/whiteQueen.png</name>
+<size>3462</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Images/whiteRook.png</name>
+<size>1136</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/King.class</name>
+<size>650</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/KingTest.class</name>
+<size>1531</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Knight.class</name>
+<size>632</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/KnightTest.class</name>
+<size>1546</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Pawn.class</name>
+<size>1324</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/PawnTest.class</name>
+<size>2206</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Piece.class</name>
+<size>1450</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Queen.class</name>
+<size>876</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/QueenTest.class</name>
+<size>1539</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/Rook.class</name>
+<size>684</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.1/RookTest.class</name>
+<size>1983</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4374">
+<author>scheruk2</author>
+<date>2017-02-13T19:40:19.778056Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/GUI</name>
+<commit
+   revision="4374">
+<author>scheruk2</author>
+<date>2017-02-13T19:40:19.778056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/GUI/ChessBoardDisplay.java</name>
+<size>3753</size>
+<commit
+   revision="4374">
+<author>scheruk2</author>
+<date>2017-02-13T19:40:19.778056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/GUI/GUI.java</name>
+<size>479</size>
+<commit
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/GUI/Tile.java</name>
+<size>755</size>
+<commit
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Images</name>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/blackBishop.png</name>
+<size>1500</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/blackKing.png</name>
+<size>2734</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/blackKnight.png</name>
+<size>2011</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/blackPawn.png</name>
+<size>876</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/blackQueen.png</name>
+<size>3018</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/blackRook.png</name>
+<size>867</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/whiteBishop.png</name>
+<size>2361</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/whiteKing.png</name>
+<size>2617</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/whiteKnight.png</name>
+<size>2363</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/whitePawn.png</name>
+<size>1510</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/whiteQueen.png</name>
+<size>3462</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Images/whiteRook.png</name>
+<size>1136</size>
+<commit
+   revision="4331">
+<author>scheruk2</author>
+<date>2017-02-13T17:51:41.906808Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Logic</name>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Logic/Board.java</name>
+<size>4562</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Logic/Game.java</name>
+<size>320</size>
+<commit
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Pieces</name>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Bishop.java</name>
+<size>1201</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Blank.java</name>
+<size>429</size>
+<commit
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Empress.java</name>
+<size>1497</size>
+<commit
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/King.java</name>
+<size>872</size>
+<commit
+   revision="4350">
+<author>scheruk2</author>
+<date>2017-02-13T18:41:33.282122Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Knight.java</name>
+<size>1023</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Pawn.java</name>
+<size>2272</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Piece.java</name>
+<size>2297</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Princess.java</name>
+<size>1678</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Queen.java</name>
+<size>1357</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Rook.java</name>
+<size>889</size>
+<commit
+   revision="4358">
+<author>scheruk2</author>
+<date>2017-02-13T19:13:40.173260Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Tests</name>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/BishopTest.java</name>
+<size>2331</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/EmpressTest.java</name>
+<size>1875</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/KingTest.java</name>
+<size>1813</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/KnightTest.java</name>
+<size>1751</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/PawnTest.java</name>
+<size>2560</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/PrincessTest.java</name>
+<size>1894</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/QueenTest.java</name>
+<size>1834</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/RookTest.java</name>
+<size>2284</size>
+<commit
+   revision="4370">
+<author>scheruk2</author>
+<date>2017-02-13T19:31:25.069032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/Assignment2.0.iml</name>
+<size>398</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/dictionaries</name>
+<commit
+   revision="5778">
+<author>scheruk2</author>
+<date>2017-02-27T05:30:39.310842Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/dictionaries/Shrujan.xml</name>
+<size>223</size>
+<commit
+   revision="5778">
+<author>scheruk2</author>
+<date>2017-02-27T05:30:39.310842Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/inspectionProfiles</name>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/workspace.xml</name>
+<size>47869</size>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Graph</name>
+<commit
+   revision="5850">
+<author>scheruk2</author>
+<date>2017-02-27T20:18:02.080065Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Graph/Edge.py</name>
+<size>251</size>
+<commit
+   revision="5841">
+<author>scheruk2</author>
+<date>2017-02-27T19:18:52.570557Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Graph/Graph.py</name>
+<size>2504</size>
+<commit
+   revision="5850">
+<author>scheruk2</author>
+<date>2017-02-27T20:18:02.080065Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Graph/Node.py</name>
+<size>299</size>
+<commit
+   revision="5841">
+<author>scheruk2</author>
+<date>2017-02-27T19:18:52.570557Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Graph/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Main</name>
+<size>852</size>
+<commit
+   revision="5850">
+<author>scheruk2</author>
+<date>2017-02-27T20:18:02.080065Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Scraper</name>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Scraper/Extract.py</name>
+<size>2464</size>
+<commit
+   revision="5850">
+<author>scheruk2</author>
+<date>2017-02-27T20:18:02.080065Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Scraper/Scrape.py</name>
+<size>3244</size>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Scraper/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5700">
+<author>scheruk2</author>
+<date>2017-02-26T06:51:59.824360Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6898">
+<author>scheruk2</author>
+<date>2017-03-11T06:26:38.493957Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="6897">
+<author>scheruk2</author>
+<date>2017-03-11T06:26:19.807268Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/Assignment2.1.iml</name>
+<size>639</size>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/dictionaries</name>
+<commit
+   revision="6424">
+<author>scheruk2</author>
+<date>2017-03-06T18:27:46.933942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/dictionaries/Shrujan.xml</name>
+<size>167</size>
+<commit
+   revision="6424">
+<author>scheruk2</author>
+<date>2017-03-06T18:27:46.933942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="6166">
+<author>scheruk2</author>
+<date>2017-03-02T00:50:06.403684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>61479</size>
+<commit
+   revision="6897">
+<author>scheruk2</author>
+<date>2017-03-11T06:26:19.807268Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/API Tests.postman_collection.json</name>
+<size>7862</size>
+<commit
+   revision="6383">
+<author>scheruk2</author>
+<date>2017-03-06T09:14:33.456191Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/API.py</name>
+<size>6357</size>
+<commit
+   revision="6897">
+<author>scheruk2</author>
+<date>2017-03-11T06:26:19.807268Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/API_Tests.postman_collection.json</name>
+<size>7862</size>
+<commit
+   revision="6417">
+<author>scheruk2</author>
+<date>2017-03-06T17:44:00.666388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AgeSalary.py</name>
+<size>1588</size>
+<commit
+   revision="6425">
+<author>scheruk2</author>
+<date>2017-03-06T18:29:38.301246Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/BestFriends.py</name>
+<size>1207</size>
+<commit
+   revision="6453">
+<author>scheruk2</author>
+<date>2017-03-06T19:58:09.408409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/DrawGraph.py</name>
+<size>1127</size>
+<commit
+   revision="6453">
+<author>scheruk2</author>
+<date>2017-03-06T19:58:09.408409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/GetActor.py</name>
+<size>500</size>
+<commit
+   revision="6414">
+<author>scheruk2</author>
+<date>2017-03-06T17:36:33.259223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/GraphCreator.py</name>
+<size>1746</size>
+<commit
+   revision="6414">
+<author>scheruk2</author>
+<date>2017-03-06T17:36:33.259223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Hubs.py</name>
+<size>980</size>
+<commit
+   revision="6443">
+<author>scheruk2</author>
+<date>2017-03-06T19:27:09.577627Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/JSONHandler.py</name>
+<size>215</size>
+<commit
+   revision="6184">
+<author>scheruk2</author>
+<date>2017-03-02T23:08:42.437459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/KevinBacon.py</name>
+<size>1549</size>
+<commit
+   revision="6414">
+<author>scheruk2</author>
+<date>2017-03-06T17:36:33.259223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Manual Test Plan.pdf</name>
+<size>2323606</size>
+<commit
+   revision="6444">
+<author>scheruk2</author>
+<date>2017-03-06T19:28:13.504199Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/ShowAll.py</name>
+<size>133</size>
+<commit
+   revision="6426">
+<author>scheruk2</author>
+<date>2017-03-06T18:32:14.027626Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data.json</name>
+<size>443811</size>
+<commit
+   revision="6303">
+<author>scheruk2</author>
+<date>2017-03-05T20:55:28.877963Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/working_data.json</name>
+<size>443811</size>
+<commit
+   revision="6307">
+<author>scheruk2</author>
+<date>2017-03-05T21:23:31.033780Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio</name>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/.idea</name>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/.idea/Portfolio.iml</name>
+<size>639</size>
+<commit
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/.idea/inspectionProfiles</name>
+<commit
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/.idea/misc.xml</name>
+<size>755</size>
+<commit
+   revision="6994">
+<author>scheruk2</author>
+<date>2017-03-12T20:37:01.436640Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/.idea/modules.xml</name>
+<size>270</size>
+<commit
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/.idea/workspace.xml</name>
+<size>46646</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/Parser</name>
+<commit
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/.coverage</name>
+<size>565</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6923">
+<author>scheruk2</author>
+<date>2017-03-11T22:25:07.172277Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/Parser/data</name>
+<commit
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/data/svn_list.xml</name>
+<size>43826</size>
+<commit
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/data/svn_log.xml</name>
+<size>68296</size>
+<commit
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/Parser/htmlcov</name>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/coverage_html.js</name>
+<size>18458</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/index.html</name>
+<size>3288</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</name>
+<size>731</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/jquery.hotkeys.js</name>
+<size>3065</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/jquery.isonscreen.js</name>
+<size>1502</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/jquery.min.js</name>
+<size>95785</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</name>
+<size>12795</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/keybd_closed.png</name>
+<size>112</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/keybd_open.png</name>
+<size>112</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/parser_py.html</name>
+<size>44441</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/status.json</name>
+<size>408</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/style.css</name>
+<size>6757</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/htmlcov/testParser_py.html</name>
+<size>15406</size>
+<commit
+   revision="7190">
+<author>scheruk2</author>
+<date>2017-03-13T17:23:03.659982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/parser.py</name>
+<size>5004</size>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Parser/testParser.py</name>
+<size>1525</size>
+<commit
+   revision="7189">
+<author>scheruk2</author>
+<date>2017-03-13T17:22:28.776961Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/Portfolio.py</name>
+<size>1646</size>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/run.py</name>
+<size>269</size>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/static</name>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/static/css</name>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/css/bootstrap-theme.min.css</name>
+<size>23409</size>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/css/bootstrap-theme.min.css.map</name>
+<size>25648</size>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/css/bootstrap.min.css</name>
+<size>121200</size>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/css/bootstrap.min.css.map</name>
+<size>542194</size>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/css/custom.css</name>
+<size>1329</size>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/favicon.ico</name>
+<size>32038</size>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/static/js</name>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/static/js/bootstrap.min.js</name>
+<size>37045</size>
+<commit
+   revision="7010">
+<author>scheruk2</author>
+<date>2017-03-12T21:36:28.491093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Portfolio/templates</name>
+<commit
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/templates/file_page.html</name>
+<size>2567</size>
+<commit
+   revision="7869">
+<author>scheruk2</author>
+<date>2017-03-25T00:53:50.249640Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/templates/index.html</name>
+<size>2187</size>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/templates/project_page.html</name>
+<size>2669</size>
+<commit
+   revision="7055">
+<author>scheruk2</author>
+<date>2017-03-13T00:47:48.969460Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/templates/revisions_page.html</name>
+<size>1991</size>
+<commit
+   revision="7169">
+<author>scheruk2</author>
+<date>2017-03-13T16:30:56.955035Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Portfolio/updateSVN.py</name>
+<size>405</size>
+<commit
+   revision="7177">
+<author>scheruk2</author>
+<date>2017-03-13T16:51:28.674654Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/.idea</name>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/Assignment3.1.iml</name>
+<size>398</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/.idea/inspectionProfiles</name>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/workspace.xml</name>
+<size>17085</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/Parser</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/.coverage</name>
+<size>565</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7892">
+<author>scheruk2</author>
+<date>2017-03-25T17:14:20.096849Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/Parser/data</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/data/svn_list.xml</name>
+<size>55079</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/data/svn_log.xml</name>
+<size>80027</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/Parser/htmlcov</name>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/coverage_html.js</name>
+<size>18458</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/index.html</name>
+<size>3288</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</name>
+<size>731</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/jquery.hotkeys.js</name>
+<size>3065</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/jquery.isonscreen.js</name>
+<size>1502</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/jquery.min.js</name>
+<size>95785</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</name>
+<size>12795</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/keybd_closed.png</name>
+<size>112</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/keybd_open.png</name>
+<size>112</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/parser_py.html</name>
+<size>44441</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/status.json</name>
+<size>408</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/style.css</name>
+<size>6757</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/htmlcov/testParser_py.html</name>
+<size>15406</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/parser.py</name>
+<size>5004</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Parser/testParser.py</name>
+<size>1525</size>
+<commit
+   revision="7893">
+<author>scheruk2</author>
+<date>2017-03-25T17:38:55.747744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/Portfolio.py</name>
+<size>4304</size>
+<commit
+   revision="8053">
+<author>scheruk2</author>
+<date>2017-03-27T18:17:51.734503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/addFruityWord.py</name>
+<size>321</size>
+<commit
+   revision="8046">
+<author>scheruk2</author>
+<date>2017-03-27T17:38:53.172440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/filterTest.py</name>
+<size>472</size>
+<commit
+   revision="8054">
+<author>scheruk2</author>
+<date>2017-03-27T18:27:17.338151Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/run.py</name>
+<size>269</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/schemas.py</name>
+<size>830</size>
+<commit
+   revision="8046">
+<author>scheruk2</author>
+<date>2017-03-27T17:38:53.172440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/schemasTest.py</name>
+<size>506</size>
+<commit
+   revision="8046">
+<author>scheruk2</author>
+<date>2017-03-27T17:38:53.172440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/static</name>
+<commit
+   revision="8000">
+<author>scheruk2</author>
+<date>2017-03-27T08:23:05.104440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/static/css</name>
+<commit
+   revision="8000">
+<author>scheruk2</author>
+<date>2017-03-27T08:23:05.104440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/css/bootstrap-theme.min.css</name>
+<size>23409</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/css/bootstrap-theme.min.css.map</name>
+<size>25648</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/css/bootstrap.min.css</name>
+<size>121200</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/css/bootstrap.min.css.map</name>
+<size>542194</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/css/custom.css</name>
+<size>1670</size>
+<commit
+   revision="8000">
+<author>scheruk2</author>
+<date>2017-03-27T08:23:05.104440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/favicon.ico</name>
+<size>32038</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/static/js</name>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/static/js/bootstrap.min.js</name>
+<size>37045</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/Portfolio/templates</name>
+<commit
+   revision="8000">
+<author>scheruk2</author>
+<date>2017-03-27T08:23:05.104440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/templates/file_page.html</name>
+<size>6954</size>
+<commit
+   revision="8000">
+<author>scheruk2</author>
+<date>2017-03-27T08:23:05.104440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/templates/index.html</name>
+<size>2187</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/templates/project_page.html</name>
+<size>2669</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/templates/revisions_page.html</name>
+<size>1991</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/Portfolio/updateSVN.py</name>
+<size>405</size>
+<commit
+   revision="7890">
+<author>scheruk2</author>
+<date>2017-03-25T16:54:18.167409Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2</name>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio</name>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/.idea</name>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/.idea/Portfolio.iml</name>
+<size>669</size>
+<commit
+   revision="8589">
+<author>scheruk2</author>
+<date>2017-04-03T06:00:22.791891Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/.idea/inspectionProfiles</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/.idea/modules.xml</name>
+<size>270</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/.idea/workspace.xml</name>
+<size>33587</size>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/Parser</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/__init__.py</name>
+<size>0</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/Parser/data</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/data/svn_list.xml</name>
+<size>55079</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/data/svn_log.xml</name>
+<size>80027</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/Parser/htmlcov</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/coverage_html.js</name>
+<size>18458</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/index.html</name>
+<size>3288</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/jquery.ba-throttle-debounce.min.js</name>
+<size>731</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/jquery.hotkeys.js</name>
+<size>3065</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/jquery.isonscreen.js</name>
+<size>1502</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/jquery.min.js</name>
+<size>95785</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/jquery.tablesorter.min.js</name>
+<size>12795</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/keybd_closed.png</name>
+<size>112</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/keybd_open.png</name>
+<size>112</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/parser_py.html</name>
+<size>44441</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/status.json</name>
+<size>408</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/style.css</name>
+<size>6757</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/htmlcov/testParser_py.html</name>
+<size>15406</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/parser.py</name>
+<size>5004</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Parser/testParser.py</name>
+<size>1525</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/Portfolio.py</name>
+<size>9434</size>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/addFruityWord.py</name>
+<size>321</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/filterTest.py</name>
+<size>472</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/run.py</name>
+<size>269</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/schemas.py</name>
+<size>1004</size>
+<commit
+   revision="8589">
+<author>scheruk2</author>
+<date>2017-04-03T06:00:22.791891Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/schemasTest.py</name>
+<size>506</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/static</name>
+<commit
+   revision="8589">
+<author>scheruk2</author>
+<date>2017-04-03T06:00:22.791891Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/static/css</name>
+<commit
+   revision="8589">
+<author>scheruk2</author>
+<date>2017-04-03T06:00:22.791891Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/css/bootstrap-theme.min.css</name>
+<size>23409</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/css/bootstrap-theme.min.css.map</name>
+<size>25648</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/css/bootstrap.min.css</name>
+<size>121200</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/css/bootstrap.min.css.map</name>
+<size>542194</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/css/custom.css</name>
+<size>1702</size>
+<commit
+   revision="8589">
+<author>scheruk2</author>
+<date>2017-04-03T06:00:22.791891Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/favicon.ico</name>
+<size>32038</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/static/js</name>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/static/js/bootstrap.min.js</name>
+<size>37045</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.2/Portfolio/templates</name>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/templates/file_page.html</name>
+<size>10099</size>
+<commit
+   revision="8640">
+<author>scheruk2</author>
+<date>2017-04-03T18:12:11.994382Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/templates/index.html</name>
+<size>2187</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/templates/project_page.html</name>
+<size>2669</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/templates/revisions_page.html</name>
+<size>1991</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.2/Portfolio/updateSVN.py</name>
+<size>405</size>
+<commit
+   revision="8527">
+<author>scheruk2</author>
+<date>2017-04-02T19:14:22.849287Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="2401">
+<author>scheruk2</author>
+<date>2017-01-31T04:18:41.572487Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>grocery</name>
+<commit
+   revision="376">
+<author>scheruk2</author>
+<date>2017-01-24T22:44:22.702786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list1.txt</name>
+<size>56</size>
+<commit
+   revision="376">
+<author>scheruk2</author>
+<date>2017-01-24T22:44:22.702786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list2.txt</name>
+<size>42</size>
+<commit
+   revision="372">
+<author>scheruk2</author>
+<date>2017-01-24T22:38:44.796077Z</date>
+</commit>
+</entry>
+</list>
+</lists>

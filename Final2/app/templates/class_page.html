@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="jumbotron" style="padding-top: 20px; padding-bottom:20px">
+        <div class="container">
+            <div class="col-md-6">
+                <h1>{{ class_name }}</h1>
+            </div>
+            <div class="col-md-3">
+                <br>
+            </div>
+            <div class="col-md-3" style="text-align:left;">
+                <div>
+                    <div class="list-group">
+                        <a href="{{ url_for('grades_page', class_id=class_name) }}" class="list-group-item list-group-item-success" style="background-color: white"><b style="color: black"> Grades</b></a>
+                        <a href="#" class="list-group-item list-group-item-success" style="background-color: white"><b style="color: black"> Course Updates</b></a>
+                        <a href="#" class="list-group-item list-group-item-success" style="background-color: white"><b style="color: black"> Discussion Forums</b></a>
+                        <a href="#" class="list-group-item list-group-item-success" style="background-color: white"><b style="color: black"> Syllabus</b></a>
+                        {% if user._id == professor %}
+                            <a href="{{ url_for('admin_page', class_id=class_name) }}" class="list-group-item list-group-item-success" style="background-color: white"><b style="color: black"> Administration Portal</b></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+    </div>
+    </div>
+    <div class="container">
+        <div class="col-md-6">
+            <div class="list-group">
+               <a class="list-group-item active"><h4><b>Assignments</b></h4></a>
+                {% for assignment in assignments %}
+                    <a href= "{{ url_for('assignment_page', class_id=class_name, assignment_id=assignment._id) }}" class="list-group-item"><b>{{ assignment.name }}</b></a>
+                {% endfor %}
+            </div>
+        </div>
+            <div class="col-md-6">
+                <div class="list-group">
+                   <a class="list-group-item active"><h4><b>Staff List</b></h4></a>
+                     <a class="list-group-item active"><b>Professor : {{ professor }}</b></a>
+                    <a class="list-group-item active"><b>Teaching Assistants</b></a>
+                    {% if ta_list is not none %}
+                        {% for ta in ta_list %}
+                            <a class="list-group-item"><b>{{ ta }}</b></a>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+    </div>
+{% endblock %}

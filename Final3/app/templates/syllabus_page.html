@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="container">
+        <ol class="breadcrumb">
+            <li><a href="{{ url_for('home') }}">Home</a></li>
+            <li><a href="{{ url_for('class_page', class_id=class_id) }}">{{ class_id }}</a></li>
+            <li><a href="{{ url_for('admin_page', class_id=class_id) }}">Administration</a></li>
+            <li class="active">Syllabus</li>
+         </ol>
+        <div class="col-md-12 well">
+            <form action="" method="POST" name="assignment_form">
+                <div>
+                    {{ assignment_form.hidden_tag() }}
+                    <div class="form-group">
+                        <div class="row">
+                            <h3>Create Assignment</h3>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            Assignment Name: {{ assignment_form.name }}
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <br>
+                        </div>
+                        <div class="row">
+                            <div class="span-12">
+                                Assignment Information (optional): {{ assignment_form.info(cols='150', rows ='15') }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ assignment_form.submit1(class="btn btn-default") }}
+                </div>
+            </form>
+            <a class="btn btn-default" href="{{ url_for('admin_page', class_id=class_id) }}">Finish Adding Assignments</a>
+        </div>
+        <div class="container">
+            <br>
+        </div>
+        <ol class="breadcrumb">
+            <li><a href="{{ url_for('home') }}">Home</a></li>
+            <li><a href="{{ url_for('class_page', class_id=class_id) }}">{{ class_id }}</a></li>
+            <li><a href="{{ url_for('admin_page', class_id=class_id) }}">Administration</a></li>
+            <li class="active">Syllabus</li>
+         </ol>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+    <ol class="breadcrumb">
+        <li><a href="{{ url_for('home') }}">Home</a></li>
+        <li><a href="{{ url_for('class_page', class_id=class_name) }}">{{ class_name }}</a></li>
+        <li class="active">Announcements</li>
+    </ol>
+    <div class="container">
+    <h1>Announcements</h1>
+        {% for announcement in announcements %}
+            <div class="col-md-12 well">
+                {{ announcement }}
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+{% endblock %}

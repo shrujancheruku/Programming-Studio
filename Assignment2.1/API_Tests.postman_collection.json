@@ -1,0 +1,320 @@
+{
+	"variables": [],
+	"info": {
+		"name": "API Tests",
+		"_postman_id": "a30164c1-8170-ef87-7d14-9b58f4f61d1e",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": " http://127.0.0.1:5000/actors/Bruce Willis",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Actor Get Check\"] = ((jsonData.name === \"Bruce Willis\") && (jsonData.age === 61))"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/actors/Bruce Willis",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/Supergirl",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Movie Get Check\"] = ((jsonData.name === \"Supergirl\") && (jsonData.year === 1984))",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/Supergirl",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/actors/Bruce Willis",
+			"request": {
+				"url": " http://127.0.0.1:5000/actors/Bruce Willis",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"age\": 10,\n\t\"total_gross\": 50\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/actors/Bruce Willis",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Actor Put Age Test\"] = jsonData.age === 10;",
+							"tests[\"Actor Put Total Gross Test\"] = jsonData.total_gross === 50;"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/actors/Bruce Willis",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/Die Hard",
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/Die Hard",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"box_office\": 1,\n\t\"year\": 2017\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/Die Hard",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Movie Put Box Office Test\"] = jsonData.box_office === 1;",
+							"tests[\"Movie Put Year Test\"] = jsonData.year === 2017;"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/Die Hard",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/actors/",
+			"request": {
+				"url": " http://127.0.0.1:5000/actors/",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n      \"json_class\": \"Actor\",\n      \"name\": \"Bobby Buckets\",\n      \"age\": 50,\n      \"total_gross\": 0,\n      \"movies\": [\n        \"\"\n      ]\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/actors/Bobby Buckets",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Actor Post Name Test\"] = jsonData.name === \"Bobby Buckets\";",
+							"tests[\"Actor Post Total Gross Test\"] = jsonData.total_gross === 0;"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/actors/Bobby Buckets",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/",
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n      \"json_class\": \"Movie\",\n      \"name\": \"The Chan Chan Man\",\n      \"wiki_page\": \"https://en.wikipedia.org/wiki/The_Chan_Chan_Man\",\n      \"box_office\": 24,\n      \"year\": 2017,\n      \"actors\": [\n        \"\"\n      ]\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/The Chan Chan Man",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Movie Post Name Test\"] = jsonData.name === \"The Chan Chan Man\";",
+							"tests[\"Movie Post Year Test\"] = jsonData.year === 2017;"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/The Chan Chan Man",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/actors/",
+			"request": {
+				"url": " http://127.0.0.1:5000/actors/",
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n      \"json_class\": \"Actor\",\n      \"name\": \"Michelle Horn\",\n      \"age\": 29,\n      \"total_gross\": 0,\n      \"movies\": [\n        \"stub\",\n        \"expanding it\"\n      ]\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://127.0.0.1:5000/actor/Michelle Horn",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Actor Delete Test\"] = jsonData.error === \"Not Found\";"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/actor/Michelle Horn",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/",
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/",
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n      \"json_class\": \"Movie\",\n      \"name\": \"Toys\",\n      \"wiki_page\": \"https://en.wikipedia.org/wiki/Toys_(film)\",\n      \"box_office\": 23,\n      \"year\": 1992,\n      \"actors\": [\n        \"Robin Williams\",\n        \"Michael Gambon\",\n        \"Joan Cusack\",\n        \"Robin Wright\",\n        \"LL Cool J\"\n      ]\n    }"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": " http://127.0.0.1:5000/movies/Toys",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"tests[\"Movie Delete Test\"] = jsonData.error === \"Bad Request\";"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": " http://127.0.0.1:5000/movies/Toys",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
